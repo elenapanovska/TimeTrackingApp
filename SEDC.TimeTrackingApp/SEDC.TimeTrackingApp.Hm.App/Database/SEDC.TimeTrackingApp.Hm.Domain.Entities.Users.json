@@ -1,0 +1,79 @@
+[
+  {
+    "FirstName": "Steve",
+    "LastName": "Bobsky",
+    "Age": 20,
+    "Username": "bobsky",
+    "Password": "bobB123",
+    "IsActive": true,
+    "ReadingActivities": [
+      {
+        "Pages": 2,
+        "BookType": 1,
+        "StartTrackingActivity": "2020-07-18T15:42:19.5470183+02:00",
+        "StopTrackingActivity": "2020-07-18T15:46:40.2789748+02:00",
+        "TrackedTime": "00:04:20.7319565",
+        "ActivityType": 1,
+        "Id": 1
+      }
+    ],
+    "WorkingActivities": [],
+    "ExercisingActivities": [],
+    "OtherHobbiesActivities": [],
+    "ListOfActivities": [
+      {
+        "StartTrackingActivity": "2020-07-18T15:42:19.5470183+02:00",
+        "StopTrackingActivity": "2020-07-18T15:46:40.2789748+02:00",
+        "TrackedTime": "00:04:20.7319565",
+        "ActivityType": 1,
+        "Id": 1
+      }
+    ],
+    "Id": 1
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Smith",
+    "Age": 25,
+    "Username": "smith",
+    "Password": "Smith123",
+    "IsActive": true,
+    "ReadingActivities": [],
+    "WorkingActivities": [],
+    "ExercisingActivities": [],
+    "OtherHobbiesActivities": [],
+    "ListOfActivities": [],
+    "Id": 2
+  },
+  {
+    "FirstName": "Elena",
+    "LastName": "Panovska",
+    "Age": 19,
+    "Username": "elenaP",
+    "Password": "elenaP123",
+    "IsActive": true,
+    "ReadingActivities": [],
+    "WorkingActivities": [],
+    "ExercisingActivities": [
+      {
+        "ExercisingType": 1,
+        "StartTrackingActivity": "2020-07-18T15:28:21.7898641+02:00",
+        "StopTrackingActivity": "2020-07-18T15:34:25.7289059+02:00",
+        "TrackedTime": "00:06:03.9390418",
+        "ActivityType": 2,
+        "Id": 0
+      }
+    ],
+    "OtherHobbiesActivities": [],
+    "ListOfActivities": [
+      {
+        "StartTrackingActivity": "2020-07-18T15:28:21.7898641+02:00",
+        "StopTrackingActivity": "2020-07-18T15:34:25.7289059+02:00",
+        "TrackedTime": "00:06:03.9390418",
+        "ActivityType": 2,
+        "Id": 0
+      }
+    ],
+    "Id": 3
+  }
+]
